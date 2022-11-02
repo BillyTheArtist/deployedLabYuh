@@ -1,0 +1,41 @@
+body {
+    background: url(
+        https://www.teahub.io/photos/full/111-1118380_starry-sky-space-wallpaper-milky-way.jpg
+    );
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: white;
+    
+}
+
+#infoBoxOne {
+    width: 500px;
+    height: 700px;
+    background: #222342;
+    opacity: .9;
+    position: absolute;
+    top: 250px;
+    left: 40px;
+}
+
+#infoBoxTwo {
+    width: 780px;
+    height: 700px;
+    background: #222342;
+    opacity: .9;
+    position: absolute;
+    top: 250px;
+    left: 570px;
+}
+
+#infoBoxThree {
+    width: 500px;
+    height: 700px;
+    background: #222342;
+    opacity: .9;
+    position: absolute;
+    top: 250px;
+    right: 40px;
+}
